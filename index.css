@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+ul li {
+  list-style: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}/*# sourceMappingURL=index.css.map */
